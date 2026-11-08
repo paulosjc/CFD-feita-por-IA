@@ -1,0 +1,6 @@
+{
+  "name": "OpenFOAM Windows Studio - CFD Simulation GUI & Prompt",
+  "description": "Simulador de Dinâmica dos Fluidos Computacional (CFD) clone do OpenFOAM para Windows com interface gráfica (GUI), terminal de comando estilo Anaconda/OpenFOAM, gerador de malha (blockMesh), regimes laminar e turbulento, escoamento multifásico e estimativas de grandezas físicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
